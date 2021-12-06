@@ -1,0 +1,4 @@
+#Mon Dec 06 11:30:42 AZOT 2021
+base.0=/Users/relax/Documents/DAW/ficha6/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
